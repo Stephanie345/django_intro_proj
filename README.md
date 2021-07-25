@@ -1,5 +1,5 @@
 # Curso Intro django
 ## Overview
 
-![overview_django](https://user-images.githubusercontent.com/21146338/126917389-1a930e6f-638f-4b91-91b7-6a71f3f76512.PNG)
+![overview_django](https://user-images.githubusercontent.com/21146338/126917466-9a02dc1b-c8e1-424b-830a-ef6a924dcc45.PNG)
 
