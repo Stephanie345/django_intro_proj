@@ -13,6 +13,7 @@
   <li>Cliente: browser que solicita, recebe e apresenta objetos da web</li>
   <li>Servidor: envia objetos em resposta a pedidos</li>
 </ul>
+Sequência de ações:
 <ul>
   <li>cliente inicia conexão TCP para o servidor na porta 80</li>
   <li>servidor aceita uma conexão TCP do cliente</li>
