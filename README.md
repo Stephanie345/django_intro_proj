@@ -21,5 +21,6 @@ Sequência de ações:
   <li>conexão TCP é fechada</li>
 </ul>
 <p align="justify">Um cliente inicia uma requisição estabelendo uma conexão TCP para porta de um servidor, normalmente a porta 80.Um servidor HTTP ouvindo naquela porta(80) espera por uma mensagem de requisição de cliente. Recebendo a requisição,o servidor retorna uma linha de estado, como "http://127.0.0.1:8080/", e uma mensagem.O protocolo HTTP define 8 métodos(GET, HEAD, POST, PUT, DELETE, TRACE,OPTIONS e CONNECT) que indicam a ação a ser realizada no recurso especificado.Os métodos GET e POST são os que aparecem mais no desenvolvimento web.</p>
-<p align="justify">HTTP é "stateless" o servidor não mantém informação sobre os pedidos passados pelos clientes. Caso queira de alguma forma manter os dados, pode-se utilizar os mecanismos de session (sessão) e cookies.O método GET requisita objetos ao servidor web,mostras os dados na url.O método POST usado para enviar dados ao servidor.</p>
+<p align="justify">HTTP é "stateless" o servidor não mantém informação sobre os pedidos passados pelos clientes. Caso queira de alguma forma manter os dados, pode-se utilizar os mecanismos de session (sessão) e cookies.</p>
+<p align="justify">O método GET requisita objetos ao servidor web,mostras os dados na url.O método POST usado para enviar dados ao servidor.</p>
 
